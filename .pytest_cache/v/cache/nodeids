@@ -1,0 +1,6 @@
+[
+  "tests/test_cases.py::TestTeamRCB::test_foreign_player_count",
+  "tests/test_cases.py::TestTeamRCB::test_one_keeper",
+  "tests/test_cases.py::test_foreign_player_count",
+  "tests/test_cases.py::test_one_keeper"
+]
