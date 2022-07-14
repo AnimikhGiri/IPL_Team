@@ -1,4 +1,0 @@
-{
-  "tests/test_cases.py::TestTeamRCB::test_foreign_player_count": true,
-  "tests/test_cases.py::TestTeamRCB::test_one_keeper": true
-}
